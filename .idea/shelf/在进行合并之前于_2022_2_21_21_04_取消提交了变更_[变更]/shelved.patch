@@ -1,0 +1,18 @@
+Index: .idea/.name
+===================================================================
+diff --git a/.idea/.name b/.idea/.name
+new file mode 100644
+--- /dev/null	
++++ b/.idea/.name	
+@@ -0,0 +1,1 @@
++git_test
+\ No newline at end of file
+Index: .idea/.name
+===================================================================
+diff --git a/.idea/.name b/.idea/.name
+new file mode 100644
+--- /dev/null	
++++ b/.idea/.name	
+@@ -0,0 +1,1 @@
++git_test
+\ No newline at end of file
